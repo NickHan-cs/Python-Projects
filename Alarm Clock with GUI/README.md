@@ -20,7 +20,7 @@ Then, users would get a display window for input as shown below. Users can input
 
 然后，用户会得到一个展示窗口用来输入，如下图所示。用户可以设置闹铃的24小时制的时间，并单击Set Alarm按钮。当到达设定的时间时，它会播放我们提前准备的wav文件。在这个项目中，我们为用户准备了一个名为AlarmClock.wav的wav文件。
 
-![GUI](D:\Data Flair\Python Projects\Alarm Clock with GUI\GUI.png)
+![GUI.png](https://i.loli.net/2020/08/19/9IkEYiOleJK4SQB.png)
 
 ## 3. How to develop
 
