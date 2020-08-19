@@ -6,11 +6,15 @@ This is a python project - Alarm Clock with GUI, which can alert us at the setti
 
 这是一个python项目——带GUI的闹钟，它可以在设定的时间警告我们。
 
+This project contains the source code AlarmClockWithGUI.py, the wav file AlarmClock.wav and the executable file AlarmClock.exe.
+
+这个项目包含了源代码AlarmClockWithGUI.py，wav文件AlarmClock.wav和可执行文件AlarmClock.exe。
+
 ## 2. How to use
 
-First, users can run the file named AlarmClockWithGUI.py:
+First, users can double clicked the executable file named AlarmClock.exe or run thepython  file named AlarmClockWithGUI.py:
 
-首先，用户可以运行这个名为AlarmClockWithGUI.py的文件
+首先，用户可以双击可执行文件AlarmClock.exe或运行这个python文件AlarmClockWithGUI.py：
 
 ```
 python AlarmClockWithGUI.py
