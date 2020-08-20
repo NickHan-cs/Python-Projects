@@ -1,4 +1,4 @@
-# README
+# Alarm Clock with GUI
 
 ## 1. Introduction
 
@@ -6,23 +6,23 @@ This is a python project - Alarm Clock with GUI, which can alert us at the setti
 
 这是一个python项目——带GUI的闹钟，它可以在设定的时间警告我们。
 
-This project contains the source code AlarmClockWithGUI.py, the wav file AlarmClock.wav and the executable file AlarmClock.exe.
+This project contains the source code `AlarmClockWithGUI.py`, the wav file `AlarmClock.wav` and the executable file `AlarmClock.exe`.
 
-这个项目包含了源代码AlarmClockWithGUI.py，wav文件AlarmClock.wav和可执行文件AlarmClock.exe。
+这个项目包含了源代码`AlarmClockWithGUI.py`，wav文件`AlarmClock.wav`和可执行文件`AlarmClock.exe`。
 
 ## 2. How to use
 
-First, users can double clicked the executable file named AlarmClock.exe or run thepython  file named AlarmClockWithGUI.py:
+First, users can double clicked the executable file `AlarmClock.exe` or run the python  file `AlarmClockWithGUI.py`:
 
-首先，用户可以双击可执行文件AlarmClock.exe或运行这个python文件AlarmClockWithGUI.py：
+首先，用户可以双击可执行文件`AlarmClock.exe`或运行这个python文件`AlarmClockWithGUI.py`：
 
 ```
 python AlarmClockWithGUI.py
 ```
 
-Then, users would get a display window for input as shown below. Users can input the Alarm Time in 24 hour format and click the Set Alarm button. When the setting time is up, it would play the wav file we prepared before. In this project, we prepared a wav file called AlarmClock.wav for users.
+Then, users would get a display window for input as shown below. Users can input the Alarm Time in 24 hour format and click the Set Alarm button. When the setting time is up, it would play the wav file we prepared before. In this project, we prepared a wav file `AlarmClock.wav` for users.
 
-然后，用户会得到一个展示窗口用来输入，如下图所示。用户可以设置闹铃的24小时制的时间，并单击Set Alarm按钮。当到达设定的时间时，它会播放我们提前准备的wav文件。在这个项目中，我们为用户准备了一个名为AlarmClock.wav的wav文件。
+然后，用户会得到一个展示窗口用来输入，如下图所示。用户可以设置闹铃的24小时制的时间，并单击Set Alarm按钮。当到达设定的时间时，它会播放我们提前准备的wav文件。在这个项目中，我们为用户准备了一个wav文件`AlarmClock.wav`。
 
 ![GUI.png](https://i.loli.net/2020/08/19/9IkEYiOleJK4SQB.png)
 
